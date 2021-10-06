@@ -1,0 +1,3 @@
+C:/Users/tobia/OneDrive/Studium_TB/WS 21 - 22/OPC/Programme/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/tobia/OneDrive/Studium_TB/WS 21 - 22/OPC/Programme/cmake-build-debug/CMakeFiles/Programme.dir
+C:/Users/tobia/OneDrive/Studium_TB/WS 21 - 22/OPC/Programme/cmake-build-debug/CMakeFiles/edit_cache.dir
